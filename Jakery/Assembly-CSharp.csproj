@@ -54,6 +54,7 @@
      <Compile Include="Assets\CameraControl.cs" />
      <Compile Include="Assets\MoveTo.cs" />
      <Compile Include="Assets\MoveToClickPoint.cs" />
+     <Compile Include="Assets\wall.cs" />
      <None Include="Assets\Standard Assets\PostProcessing-1\PostProcessing\Resources\Shaders\DepthOfField.shader" />
      <None Include="Assets\Standard Assets\PostProcessing-1\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
      <None Include="Assets\Standard Assets\PostProcessing-1\PostProcessing\Resources\Shaders\Fog.shader" />

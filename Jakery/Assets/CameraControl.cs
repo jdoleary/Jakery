@@ -16,7 +16,7 @@ public class CameraControl : MonoBehaviour {
 		//transform.RotateAround(around.position, Vector3.up, 20 * Time.deltaTime);
     float step = speed * Time.deltaTime;
     transform.position = Vector3.MoveTowards(transform.position, followTarget.position, step);
-    if (Input.GetKeyDown("up")){
+    if (Input.GetKeyDown("left")){
       transform.RotateAround(around.position, Vector3.up, 90);
     }
 

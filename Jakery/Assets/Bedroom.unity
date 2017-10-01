@@ -3352,11 +3352,11 @@ Transform:
   - {fileID: 21649971}
   - {fileID: 1050884588}
   - {fileID: 1509069741}
+  - {fileID: 751862505}
   - {fileID: 455128199}
   - {fileID: 1261822808}
-  - {fileID: 751862505}
-  - {fileID: 731937849}
   - {fileID: 1248149290}
+  - {fileID: 731937849}
   - {fileID: 816101227}
   - {fileID: 216900632}
   - {fileID: 268548168}
@@ -4420,6 +4420,10 @@ Prefab:
     - target: {fileID: 100000, guid: c22f8cd789b43eb499c5f664659e9348, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: c22f8cd789b43eb499c5f664659e9348, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c22f8cd789b43eb499c5f664659e9348, type: 3}

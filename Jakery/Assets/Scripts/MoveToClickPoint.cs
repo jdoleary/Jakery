@@ -22,7 +22,7 @@
           // When unit arrives at destination:
           if(agent.remainingDistance <= float.Epsilon)
           {
-            Debug.Log("Arrived");
+            //Debug.Log("Arrived");
           }
         }
     }
